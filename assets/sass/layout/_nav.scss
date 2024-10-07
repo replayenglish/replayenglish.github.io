@@ -79,7 +79,7 @@
 		}
 
 		@include breakpoint('<=small') {
-			display: flex;
+			display: inline-block;
 
 			& + #main {
 				padding-top: 0;
