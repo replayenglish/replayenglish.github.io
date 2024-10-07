@@ -3308,7 +3308,7 @@ input, select, textarea {
 @media screen and (max-width: 736px) {
 
 	#nav {
-		display: block;
+		display: none;
 		width: 100%; // Ensure full width on small screens
 		max-width: 100%;
 		padding: 0.5em; // Reduce padding on smaller screens
